@@ -1,6 +1,6 @@
-# axway-apigw-full-healthcheck-policies
+# Heathcheck APIGW 7.5.3 Architecture
 
-This project describes how to perform a full components healthcheck plus a zero downtime policy deployment to Axway API Gateway in a multi-node environment with a load balancer.
+This project describes how to perform a full components healthcheck and a zero downtime policy deployment to Axway API Gateway in a multi-node environment.
 
 ## Contents
 1.	Heathcheck APIGW Architecture
